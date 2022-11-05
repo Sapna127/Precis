@@ -16,7 +16,7 @@
 # Features🚀
 - Simple Python Script 
 - Add the URL of an article and see the precise version of it.
-- No need of any big 
+- No complex depensecies.
 
 # Applications😎
 - It can save lots of time.
