@@ -11,7 +11,7 @@
 
 - nltk
 - beautifulsoup4
-- nltk 
+- nlp
 
 # Features🚀
 - Simple Python Script 
